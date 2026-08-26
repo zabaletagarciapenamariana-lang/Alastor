@@ -4,7 +4,7 @@
   "description": "alastor, the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
-   "repository": "https://github.com/OfficialKango/KANGO-XMD-LITE",
+   "repository": "https://github.com/zabaletagarciapenamariana-lang",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
@@ -56,7 +56,7 @@
       "required": false
     },
    "GITHUB_TOKEN": {
-  "description": "IMPORTANT: Follow these steps to generate your GitHub token correctly(Bot will not save settings without it!). Go to , select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.",
+  "description": "IMPORTANT: Follow these steps to generate your GitHub token correctly(Bot will not save settings without it!). Go to https://github.com/zabaletagarciapenamariana-lang , select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.",
   "value": "",
   "required": false
 }
@@ -66,13 +66,13 @@
       "url": "alastor"
     },
     {
-      "url": "
+      "url": "https://github.com/zabaletagarciapenamariana-lang
     },
     {
-      "url": "
+      "url": "https://github.com/zabaletagarciapenamariana-lang
     },
     {
-      "url": "
+      "url": "https://github.com/zabaletagarciapenamariana-lang
     }
   ]
 }
